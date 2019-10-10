@@ -9,9 +9,9 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://coding.net/u/ctinus/p/SHOCKAdHocInstall/git/raw/master/Icon-Small%403x.png</string>
+		<string>https://coding.net/u/ctinus/p/SHOCKAdHocInstall/git/raw/master/Icon-60%403x.png</string>
 		<key>displayImageURL</key>
-		<string>https://coding.net/u/ctinus/p/SHOCKAdHocInstall/git/raw/master/Icon-Small%403x.png</string>
+		<string>https://coding.net/u/ctinus/p/SHOCKAdHocInstall/git/raw/master/Icon-60%403x.png</string>
 		<key>fullSizeImageURL</key>
 		<string>https://coding.net/u/ctinus/p/SHOCKAdHocInstall/git/raw/master/Icon-60%403x.png</string>
 	</dict>
