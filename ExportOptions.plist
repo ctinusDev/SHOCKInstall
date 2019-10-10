@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<true/>
+	<key>destination</key>
+	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://coding.net/u/ctinus/p/SHOCKAdHocInstall/git/raw/master/Icon-Small%403x.png</string>
+		<key>displayImageURL</key>
+		<string>https://coding.net/u/ctinus/p/SHOCKAdHocInstall/git/raw/master/Icon-Small%403x.png</string>
+		<key>fullSizeImageURL</key>
+		<string>https://coding.net/u/ctinus/p/SHOCKAdHocInstall/git/raw/master/Icon-60%403x.png</string>
+	</dict>
+	<key>method</key>
+	<string>ad-hoc</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.shock.shock.adhoc</key>
+		<string>ShockAdHoc</string>
+		<key>com.shock.shock.adhoc.SHOCKNotificationService</key>
+		<string>ShockNotificationServiceAdHoc</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>iPhone Distribution</string>
+	<key>signingStyle</key>
+	<string>manual</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>3UXU62ALHJ</string>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
+</dict>
+</plist>
